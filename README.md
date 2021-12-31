@@ -1,6 +1,6 @@
         Opa, sou Julio Rafael e sou estudante de S.I.
     
-<div align="center">
+</div>
   <a href="https://github.com/JulRafael">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulRafael&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulRafael&layout=compact&langs_count=7&theme=monokai"/>
