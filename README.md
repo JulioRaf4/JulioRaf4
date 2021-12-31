@@ -1,4 +1,7 @@
-@JulRafael
-Okay, I'm starting on Git now, I'm an Information Systems student and I'm currently studying Python only.
-I will be starting JS, HTML and CSS in the year 2022.
-Open to help. ❤️
+    Opa, sou Julio Rafael e sou estudante de S.I.
+ 
+    - ⏳ Atutalmente estou no 1º Período
+    - 🥺 Aprendo Haskell
+    - 💕 Estudo Python nas horas vagas
+    - 🌱 Atualmente estou muito focado em aprender
+    - 😁 E também estou muito excitado estudando programação
