@@ -1,4 +1,4 @@
-        Opa, sou Julio Rafael e sou estudante de S.I.
+        Eu.
     
 </div>
   <a href="https://github.com/JulRafael">
