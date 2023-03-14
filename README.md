@@ -3,6 +3,10 @@
 </div>
   <a href="https://github.com/JulRafael">
 </div>
+<div>
+       <img height=165x src="https://github-readme-stats.vercel.app/api?username=JulioRaf4&show_icons=true&theme=dark"/>
+       <img heigth=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRaf4&layout=compact&theme=dark"/>
+</div>
 <div style="display: inline_block"><br>
     <p align="rigth">
   <a href="https://skillicons.dev">
