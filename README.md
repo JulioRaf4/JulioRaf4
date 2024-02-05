@@ -3,7 +3,7 @@
 
   <h3>Hi there, Julio Rafael here</h3>
 
-  Greetings! I'm Julio Rafael, a 23-year-old professional currently working with Artificial Intelligence at Banese Bank. My favorite programming languages are Python and C++. I have a deep passion for problem-solving and enjoy contemplating ways to enhance the world around me. Outside of work, I cherish spending time with my niece and have a dream of traveling the world.
+  Greetings! I'm Julio Rafael, a 23-year-old professional currently working with Artificial Intelligence at Banese Bank. My favorite programming languages are Python and C++. I have a deep passion for problem-solving and enjoy contemplating ways to enhance the world around me.
   <br>
 </div>
 
