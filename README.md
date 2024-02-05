@@ -12,6 +12,7 @@
 - 💻 My favorite programming languages are Python and C++
 - 👶 I love my niece
 - ✈️ I dream of traveling the world
+- 🏊 Passionate about competitive sports.
 
 Feel free to reach out to me via email at juliorafaelnft@hotmail.com</a>
 or <a href="https://www.linkedin.com/in/julio-rafael-souza/">Linkedin</a>.
