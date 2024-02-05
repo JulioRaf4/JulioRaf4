@@ -1,20 +1,17 @@
-       :]
-    
-</div>
-  <a href="https://github.com/JulRafael">
-</div>
 <div>
-       
+  <img align="left" height="160px" src="pfp.jpg" alt="Profile picture">
+
+  <h3>Hi there, Julio Rafael here</h3>
+
+  Greetings! I'm Julio Rafael, a 23-year-old professional currently working with Artificial Intelligence at Banese Bank. My favorite programming languages are Python and C++. I have a deep passion for problem-solving and enjoy contemplating ways to enhance the world around me. Outside of work, I cherish spending time with my niece and have a dream of traveling the world.
+  <br>
 </div>
-<div style="display: inline_block"><br>
-    <p align="rigth">
-  <a href="https://skillicons.dev">
-   
-  </a>
-</p>
-</div>
-    <a href="https://instagram.com/JulioSZA1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/Jujub4lol" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juliorafaelnft@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-rafael-souza-980a8a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>              
-</div>
+
+- 🌐 I work at [Banese Bank](https://www.banese.com.br) in the field of Artificial Intelligence
+- 🎓 I am 23 years old
+- 💻 My favorite programming languages are Python and C++
+- 👶 I love my niece
+- ✈️ I dream of traveling the world
+
+Feel free to reach out to me via email at juliorafaelnft@hotmail.com</a>
+or <a href="https://www.linkedin.com/in/julio-rafael-souza/">Linkedin</a>.
