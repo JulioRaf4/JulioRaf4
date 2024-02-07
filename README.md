@@ -4,8 +4,8 @@
   Greetings! I'm Julio Rafael, a 23-year-old professional currently working with Artificial Intelligence at Banese Bank. My favorite programming language is Python. I have a deep passion for problem-solving and enjoy contemplating ways to enhance the world around me. I'm Brazilian, from Sergipe, and I'm currently completing my degree in Computer Science. I already have a keen interest in specializing in the field of AI.
   <br>
 </div>
-<div>
-  ### A few things about me
+  
+### A few things about me
 
   - I work at [Banese Bank](https://www.banese.com.br) in the field of Artificial Intelligence.
   - I am 23 years old.
@@ -17,5 +17,4 @@
 You can reach me at juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
 <div align="center" >
 <img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=JulioRaf4&show_icons=true&theme=prussian&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
-</div>
 </div>
