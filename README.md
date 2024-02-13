@@ -7,8 +7,8 @@
   
 ### A few things about me
 
-  - I work at [Banese Bank](https://www.banese.com.br) in the field of Artificial Intelligence.
-  - I am 23 years old.
+  - I work in [Banese Bank](https://www.banese.com.br) in the field of Artificial Intelligence and Software Development.
+  - w/ 23 years old.
   - My favorite programming languages are Python and C++.
   - I'm from [Sergipe, Brasil](https://pt.wikipedia.org/wiki/Sergipe).
   - I dream of traveling the world.
