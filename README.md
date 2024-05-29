@@ -9,7 +9,7 @@
 
   - I work in [Banese Bank](https://www.banese.com.br) in the field of Artificial Intelligence and Software Development.
   - w/ 23 years old.
-  - My favorite programming languages are Python and JS.
+  - My favorite programming languages are Python and RUST.
   - I'm from [Sergipe, Brasil](https://pt.wikipedia.org/wiki/Sergipe).
   - I dream of traveling the world.
   - Passionate about competitive sports.
