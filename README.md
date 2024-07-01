@@ -15,8 +15,4 @@
   - Passionate about competitive sports.
 
 You can reach me at juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
-<div align="center" >
-<img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=JulioRaf4&show_icons=true&theme=prussian&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRaf4&layout=compact&theme=prussian">
-  
-</div>
+
