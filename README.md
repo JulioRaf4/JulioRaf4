@@ -16,8 +16,8 @@
   - 2 years of development experience.
  
   ## Technologies I currently work on
-  *<img src="https://skillicons.dev/icons?i=python,django,js,react,ts,docker,postgresql,mongodb" />*
-  - Python w/ Django and AI Tools.
+  *<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,ts,docker,postgresql,mongodb" />*
+  - Python w/ Django, FastAPI and AI Tools.
   - JavaScript w/ React and TypeScript.
   - AI w/ FineTuning, API's and LangChain.
   - CI/CD and Docker.
