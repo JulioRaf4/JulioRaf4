@@ -16,6 +16,7 @@
   - 2 years of development experience.
  
   ## Technologies I currently work on
+  *<img src="https://skillicons.dev/icons?i=python,django,js,react,ts,docker,postgresql,mongodb" />*
   - Python w/ Django and AI Tools.
   - JavaScript w/ React and TypeScript.
   - AI w/ FineTuning, API's and LangChain.
@@ -23,5 +24,10 @@
   - DataBase w/ SQL and NoSQL [PostGreSQL & MongoDB]
   - Problem solving and resolution architecture.
 
-You can reach me at juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
+Contact me via juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
 
+Discover my work through my posts [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
+
+## About my work
+
+Most of my projects are intended for clients who request private repositories to keep them secure. Please visit my [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/). to find more of my projects or contact me directly.
