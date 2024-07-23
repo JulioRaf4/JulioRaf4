@@ -27,7 +27,3 @@
 Contact me via juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
 
 Discover my work through my posts [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
-
-## About my work
-
-Most of my projects are intended for clients who request private repositories to keep them secure. Please visit my [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/). to find more of my projects or contact me directly.
