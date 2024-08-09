@@ -13,7 +13,6 @@
   - I'm from [Sergipe, Brasil](https://pt.wikipedia.org/wiki/Sergipe).
   - I dream of traveling the world.
   - Passionate about competitive sports.
-  - 2 years of development experience.
  
   ## Technologies I currently work on
   *<img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,ts,docker,postgresql,mongodb" />*
