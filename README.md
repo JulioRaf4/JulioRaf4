@@ -23,7 +23,7 @@
   - DataBase w/ SQL and NoSQL [PostGreSQL & MongoDB]
   - Problem solving and resolution architecture.
 
-Contact me via juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
+Contact me via juliopeixotocontato@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
 
 Discover my work through my posts [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
 
