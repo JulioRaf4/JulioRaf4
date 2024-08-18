@@ -26,3 +26,8 @@
 Contact me via juliorafaelnft@hotmail.com or [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
 
 Discover my work through my posts [LinkedIn](https://www.linkedin.com/in/julio-rafael-souza/).
+
+<img 
+  align='center' 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRaf4&layout=compact&langs_count=8&theme=highcontrast"
+  />
