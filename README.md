@@ -2,7 +2,7 @@
   <h3>Hi there, Julio Rafael here</h3>
   <hr>
   Greetings! i'm a 23y professional currently working with Artificial Intelligence at Banese Bank. My main lang are Python/Ts. I have a deep passion for problem-solving and enjoy contemplating ways to enhance the world around me.
-  I'm Brazilian, from Sergipe, and I'm currently completing my degree in Computer Science. I already have a keen interest in specializing in the field of AI & Software Engineering.
+  I'm Brazilian, from Sergipe, and I'm currently completing my BSc in Computer Science. I already have a keen interest in specializing in the field of AI & Software Engineering.
   <br>
 </div>
   
