@@ -1,1 +1,1 @@
-just go there https://www.juliopeixoto.info/
+just go here https://www.juliopeixoto.info/
