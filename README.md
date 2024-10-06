@@ -1,1 +1,1 @@
-just go here -> https://www.juliopeixoto.info/ .
+https://www.juliopeixoto.info/ .
