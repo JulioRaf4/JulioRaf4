@@ -1,3 +1,3 @@
-Brazilian, building software and ai stuffs. Diving in ai/ml now.
+Brazilian, building software and ai stuffs.
 
 my portfolio https://www.juliopeixoto.info/ .
